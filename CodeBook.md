@@ -23,7 +23,7 @@ Final file "tidyfile.txt" contains the following variables:
 
  $ SubjectID              : int  1-30 for each of the subjects in the study
  $ ActivityLabel          : Factor w/ 6 levels "LAYING","SITTING","WALKING","WALKING_UPSTAIRS",
-                            "WALKING_DOWNSTAIRS","STANDING"
+                            "WALKING_DOWNSTAIRS","STANDING"  
  $ TimeBodyAccMagMean     : num  
  $ TimeBodyAccJerkMagMean : num  
  $ TimeBodyGyroMagMean    : num  
